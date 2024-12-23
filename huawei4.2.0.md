@@ -1,3 +1,11 @@
+# HarmonyOS4.2.0
+---
+更新于 2024-12-23
+
+## 测试设备
+* 荣耀30 pro
+
+## ADB命令
 ```shell
 adb.exe shell
 ## 查看用户
@@ -11,6 +19,8 @@ pm dump <包名>
 pm uninstall --user 0 package
 ```
 
+## 默认系统APP列表
+```txt
 com.huawei.security.hsdr - 华为安全数据恢复
 com.android.cts.priv.ctsshim - CTS Shim（兼容性测试套件）
 com.huawei.camera - 华为相机
@@ -265,3 +275,4 @@ com.huawei.android.airsharing - 空中共享
 ~~com.huawei.rcsserviceapplication~~ - 华为RCS服务
 com.huawei.deskclock - 华为桌面时钟
 com.huawei.ohos.famanager - 鸿蒙文件管理器
+```
