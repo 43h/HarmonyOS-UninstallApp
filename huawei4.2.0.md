@@ -78,7 +78,7 @@ pm uninstall --user 0 package
 > ~~com.huawei.photos~~ - 华为照片 
 > ~~com.huawei.android.FloatTasks~~ - 华为浮动任务  
 ### 不可卸载应用
-com.huawei.systemmanager 系统管理  
+com.huawei.systemmanager 手机管家 
 com.huawei.searchservice - 华为搜索服务  
 com.huawei.hiai - 华为AI服务  
 com.huawei.android.airsharing 空中共享  
@@ -107,6 +107,8 @@ com.huawei.parentcontrol - 家长控制
 * com.android.mms.service - 短信服务  
 * com.android.bluetooth - 蓝牙服务  
 * com.android.mms - 短信管理  
+* com.huawei.secime - 华为安全键盘  
+* com.huawei.hwdockbar - 华为Dock栏  
 ### 其他未知
 com.huawei.security.hsdr - 华为安全数据恢复  
 com.android.cts.priv.ctsshim - CTS Shim（兼容性测试套件）  
@@ -129,7 +131,7 @@ com.huawei.desktop.systemui - 华为桌面系统UI
 com.huawei.motionservice - 华为动作服务  
 com.huawei.appmarket - 华为应用市场  
 com.huawei.recsys - 华为推荐系统  
-com.huawei.secime - 华为安全IME  
+
 com.android.wifi.resources.overlay - Wi-Fi资源覆盖  
 com.android.documentsui - 文件管理界面  
 com.huawei.numberidentity - 华为号码识别  
@@ -222,14 +224,12 @@ com.android.cellbroadcastreceiver - 小区广播接收器
 android.ext.shared - Android扩展共享  
 com.huawei.HwMultiScreenShot - 华为多屏截图  
 com.android.server.telecom - 电信服务  
-com.huawei.hwdockbar - 华为Dock栏  
+
 com.android.cellbroadcastservice - 小区广播服务  
 com.huawei.multimedia.hivideoplayengine - 华为视频播放引擎  
 com.android.keychain - 密钥链  
-
 com.android.printservice.recommendation - 打印推荐服务  
 com.huawei.languagedownloader - 语言下载器  
-
 android.ext.services - Android扩展服务  
 com.android.wifi.resources - Wi-Fi资源  
 com.huawei.hwstartupguide - 华为启动指南  
@@ -267,7 +267,6 @@ com.huawei.pcassistant - 华为PC助手
 com.huawei.android.projectmenu - 华为项目菜单  
 com.android.cts.ctsshim - CTS Shim（兼容性测试）  
 com.huawei.android.remotecontroller - 华为远程控制  
- 
 com.huawei.hidisk.fa - HiDisk（FA）  
 com.android.vpndialogs - VPN对话框  
 com.huawei.security.privacycenter - 华为隐私中心  
