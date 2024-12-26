@@ -23,7 +23,7 @@ pm uninstall --user 0 package
 ### 可卸载应用
 * 壁纸与主题
 > ~~com.huawei.magazine~~ - 华为杂志  
-> ~~com.huawei.android.thememanager - 华为主题管理~~  
+> ~~com.huawei.android.thememanager~~ - 主题管理  
 > ~~com.huawei.aod~~ - AOD（Always On Display）熄屏显示  
 > ~~com.android.wallpaperbackup~~ - 壁纸备份  
 > ~~com.huawei.livewallpaper.paradise~~ - 华为动态壁纸（天堂）  
@@ -56,7 +56,7 @@ pm uninstall --user 0 package
 * 输入法 
 > ~~com.baidu.input_huawei~~ - 百度输入法华为版  
 * 其他应用与系统服务
-> ~~com.huawei.hmos.compass~~ - 华为鸿蒙指南针  
+> ~~com.huawei.hmos.compass~~ - 指南针  
 > ~~com.huawei.fastapp~~ - 快应用  
 > ~~com.huawei.hwvoipservice~~ - 华为畅联  
 > ~~com.huawei.android.karaoke~~ - 华为K歌应用  
@@ -64,7 +64,7 @@ pm uninstall --user 0 package
 > ~~com.huawei.easygo~~ - 华为EasyGo  
 > ~~com.huawei.ohos.smarthome~~ - 华为鸿蒙智能家居  
 > ~~com.huawei.android.UEInfoCheck~~ - 用户体验信息检查  
-> ~~com.huawei.android.chr - 华为CHR（客户体验报告）~~  
+> ~~com.huawei.android.chr~~ - 华为CHR（客户体验报告）  
 > ~~com.huawei.intelligent~~ - 华为负一屏  
 > ~~com.android.htmlviewer~~ - HTML查看器  
 > ~~com.iflytek.speechsuite~~ - iFlytek语音套件  
@@ -76,7 +76,7 @@ pm uninstall --user 0 package
 > ~~com.huawei.securitymgr~~ - 华为安全管理
 > ~~com.huawei.ohos.health~~ - 鸿蒙健康服务  
 > ~~com.huawei.photos~~ - 华为照片 
-> ~~com.huawei.android.FloatTasks~~ - 华为浮动任务  
+> ~~com.huawei.android.FloatTasks~~ - 悬浮导航  
 ### 不可卸载应用
 com.huawei.systemmanager 手机管家 
 com.huawei.searchservice - 华为搜索服务  
@@ -92,8 +92,6 @@ com.huawei.hicard - 华为IC卡服务
 com.huawei.hidisk - 华为HiDisk（磁盘管理）  
 com.huawei.hiview - 华为HiView（云视图服务）  
 com.huawei.parentcontrol - 家长控制  
-
-
 
 ### 不建议卸载应用(并未测试是否可以卸载)
 * com.huawei.android.launcher - 华为桌面启动器  
